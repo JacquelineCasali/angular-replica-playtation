@@ -1,0 +1,19 @@
+/* position: absolute; aparece na frente  */
+
+.label{
+    position: absolute;
+    bottom: 90px;
+    right: 0;
+}
+.content{
+    display: flex;
+    align-items: center;
+    background-color: #0d0d0d;
+    color: white;
+    font-size: 12px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    height: 40px;
+    padding: 0 50px;
+    justify-content: center;
+}
